@@ -1,7 +1,5 @@
-
-
 class Rol:
-
+    
 
     def __init__(self, id_rol, description):
         self._id_rol = id_rol
