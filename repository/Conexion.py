@@ -1,3 +1,7 @@
+
+import mysql.connector
+
+
 class conexion:
 
     def __init__(self, host, port, user, password, database):
