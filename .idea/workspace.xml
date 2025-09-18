@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4a35481-54e4-4d9a-9776-bd6604fc46c7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/repository/Conexion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/FriendRepositoryBD.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/FriendRespository.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/FriendService.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/Friend.py" beforeDir="false" afterPath="$PROJECT_DIR$/domain/Friend.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/domain/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/object.py" beforeDir="false" afterPath="$PROJECT_DIR$/domain/object.py" afterDir="false" />
-    </list>
+    <list default="true" id="e4a35481-54e4-4d9a-9776-bd6604fc46c7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1757617828658</updated>
       <workItem from="1757617830112" duration="1743000" />
-      <workItem from="1757628481621" duration="4768000" />
+      <workItem from="1757628481621" duration="4780000" />
     </task>
     <servers />
   </component>
