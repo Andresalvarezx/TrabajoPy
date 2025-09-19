@@ -5,11 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e4a35481-54e4-4d9a-9776-bd6604fc46c7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/repository/adminRepository.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repository/adminRepositoryBD.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/adminSerivice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/TestAdmin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/App.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/AppAdmin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/domain/Friend.py" beforeDir="false" afterPath="$PROJECT_DIR$/domain/Friend.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository/Conexion.py" beforeDir="false" afterPath="$PROJECT_DIR$/repository/Conexion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository/FriendRepositoryBD.py" beforeDir="false" afterPath="$PROJECT_DIR$/repository/FriendRepositoryBD.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository/FriendRespository.py" beforeDir="false" afterPath="$PROJECT_DIR$/repository/FriendRespository.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/domain/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/domain/admin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/service/FriendService.py" beforeDir="false" afterPath="$PROJECT_DIR$/service/FriendService.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +71,7 @@
       <workItem from="1757617830112" duration="1743000" />
       <workItem from="1757628481621" duration="4780000" />
       <workItem from="1758215696320" duration="972000" />
-      <workItem from="1758238908801" duration="960000" />
+      <workItem from="1758238908801" duration="4806000" />
     </task>
     <servers />
   </component>

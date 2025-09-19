@@ -1,6 +1,6 @@
 from domain.Friend import Friend
-from repository.FriendRepository import FriendRepository
-from repository.FriendRepositoryBD import FriendRepositoryDB
+from repository.FriendRespository import FriendRepository
+from repository.FriendRepositoryBD import FriendRepositorBD
 
 
 class  FriendService:
@@ -9,7 +9,7 @@ class  FriendService:
     def __init__(self):
         self.friendObject = Friend(None, None, None, None, None, None)
         self.friendRepository = FriendRepository()
-        self.friendRepositoryDB = FriendRepositoryDB()
+        self.friendRepositoryDB = FriendRepositorBD()
 
 
 
