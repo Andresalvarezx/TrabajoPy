@@ -8,7 +8,7 @@ class User:
 
 
 
-    #Getters and Setters
+    
 
     @property
     def id(self):

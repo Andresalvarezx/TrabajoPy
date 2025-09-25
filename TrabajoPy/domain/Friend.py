@@ -1,9 +1,9 @@
-from domain.User import User
+from domain.user import User
 
 
 class Friend (User):
 
-    # Constructor de la clase
+    
 
     def __init__(self, id, name, phone, mail, adress, rol):
         super().__init__(id, name, phone, mail)
@@ -13,7 +13,7 @@ class Friend (User):
 
 
 
-    #Getters and Setters
+    
 
     @property
     def adress(self):

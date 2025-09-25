@@ -1,4 +1,4 @@
-from domain.Category import Category
+from domain.object import Category
 
 
 class Object:
